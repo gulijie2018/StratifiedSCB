@@ -52,7 +52,7 @@ MISE=matrix(1,4,8)
 
 
 set.seed(123456)
-############### generate population
+############### generate population ################
 subp1=matrix(rgamma(Ns[1]*m,shape=alpha[1],scale=beta[1]),Ns[1],m)
 subp2=matrix(rgamma(Ns[2]*m,shape=alpha[2],scale=beta[2]),Ns[2],m)
 subp3=matrix(rgamma(Ns[3]*m,shape=alpha[3],scale=beta[3]),Ns[3],m)
