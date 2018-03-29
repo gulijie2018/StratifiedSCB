@@ -1,5 +1,5 @@
 ######## Coverage frequencies of SCBs under optimal allocation based on bootstrap method ######
-## Four strata
+## Four strata (Table 3)
 
 timestart=Sys.time()
 library(stats)
