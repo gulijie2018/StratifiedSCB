@@ -1,5 +1,5 @@
 ###### SCBs under optimal allocation based on limiting method ######
-## Four strata £¨Table 3£©
+## Four strata (Table 3)
 
 timestart=Sys.time()
 library(stats)
